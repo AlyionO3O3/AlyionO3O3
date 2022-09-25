@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlyionO3O3
-- 👀 I’m majoring in public health.
+- 👀 Major in public health.
 - 🌱 I’m currently learning Python, HTML, CSS & JavaScript.
 - 💞️ I’m a graduate student in Nation Defense Medical Center, ROC.
 - 📫 Email: kim5120658@gmail.com
